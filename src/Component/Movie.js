@@ -59,7 +59,7 @@ return(
       <div className="coba">
       
         <div className="real_content">
-          {head}
+      
           <div className="img_box">
          
           <Link to={"/detail/"+item.id}>
